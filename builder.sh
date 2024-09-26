@@ -6,6 +6,7 @@ declare -g headJson
 declare -g bodyJson
 declare -g tmpBodyJson
 
+declare -g schemesPath="$HOME/projects/schemes/base16/"
 declare -g schemeSystem
 declare -g schemeSlug
 declare -g schemeSlugUnderscored
@@ -28,7 +29,7 @@ declare -g tokenDecR
 declare -g tokenDecG
 declare -g tokenDecB
 
-readarray -t schemesFiles < <(find "$HOME"/projects/schemes/base16/ -type f -iname '*.yaml')
+readarray -t schemesFiles < <(find "$schemesPath" -type f -iname '*.yaml')
 readarray -t necessaryTokensPaletteList < <(grep -oP '\{\{\K[^}]+(?=\}\})' ./templates/body.mustache | awk -F'.' '{print $1}' | sort -u)
 
 function getProperty() {
