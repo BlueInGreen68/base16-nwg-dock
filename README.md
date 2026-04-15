@@ -1,4 +1,4 @@
-# base16-nwg-dock
+# tinted-nwg-dock
 
 <!-- markdownlint-disable MD013 -->
 
