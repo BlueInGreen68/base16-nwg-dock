@@ -6,12 +6,11 @@
 * slug-underscored: tokyo_city_light
 * system: base16
 * variant: light
-* is-light-variant: true
 *
 */
 
 window {
-    background-color: #FBFBFD;
+    background-color: #fbfbfd;
     border-color: #34548a;
 }
 

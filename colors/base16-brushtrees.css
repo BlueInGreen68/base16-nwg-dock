@@ -5,19 +5,18 @@
 * slug: brushtrees
 * slug-underscored: brushtrees
 * system: base16
-* variant: dark
-* is-dark-variant: true
+* variant: light
 *
 */
 
 window {
-    background-color: #E3EFEF;
+    background-color: #e3efef;
     border-color: #868cb3;
 }
 
 button,
 image {
-    color: #8299A1;
+    color: #8299a1;
 }
 
 button:hover {

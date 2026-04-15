@@ -6,7 +6,6 @@
 * slug-underscored: tokyo_night_moon
 * system: base16
 * variant: dark
-* is-dark-variant: true
 *
 */
 
@@ -17,7 +16,7 @@ window {
 
 button,
 image {
-    color: #828bb8;
+    color: #636da6;
 }
 
 button:hover {

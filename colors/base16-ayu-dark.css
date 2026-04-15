@@ -1,25 +1,24 @@
 /*
 *
 * name: Ayu Dark
-* author: Khue Nguyen <Z5483Y@gmail.com>
+* author: Tinted Theming (https://github.com/tinted-theming), Ayu Theme (https://github.com/ayu-theme)
 * slug: ayu-dark
 * slug-underscored: ayu_dark
 * system: base16
 * variant: dark
-* is-dark-variant: true
 *
 */
 
 window {
-    background-color: #0F1419;
-    border-color: #59C2FF;
+    background-color: #0b0e14;
+    border-color: #59c2ff;
 }
 
 button,
 image {
-    color: #BFBDB6;
+    color: #bfbdb6;
 }
 
 button:hover {
-    background-color: rgba(243, 244, 245, 0.4);
+    background-color: rgba(242, 240, 231, 0.4);
 }

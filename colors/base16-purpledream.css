@@ -6,13 +6,12 @@
 * slug-underscored: purpledream
 * system: base16
 * variant: dark
-* is-dark-variant: true
 *
 */
 
 window {
     background-color: #100510;
-    border-color: #00A0F0;
+    border-color: #00a0f0;
 }
 
 button,

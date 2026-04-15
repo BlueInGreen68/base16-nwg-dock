@@ -6,18 +6,17 @@
 * slug-underscored: nova
 * system: base16
 * variant: dark
-* is-dark-variant: true
 *
 */
 
 window {
-    background-color: #3C4C55;
-    border-color: #83AFE5;
+    background-color: #3c4c55;
+    border-color: #83afe5;
 }
 
 button,
 image {
-    color: #899BA6;
+    color: #899ba6;
 }
 
 button:hover {

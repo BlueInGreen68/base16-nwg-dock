@@ -1,0 +1,24 @@
+/*
+*
+* name: Kanagawa Dragon
+* author: Stefan Weigl-Bosker (https://github.com/sweiglbosker), Tommaso Laurenzi (https://github.com/rebelot/kanagawa.nvim)
+* slug: kanagawa-dragon
+* slug-underscored: kanagawa_dragon
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #181616;
+    border-color: #8ba4b0;
+}
+
+button,
+image {
+    color: #737c73;
+}
+
+button:hover {
+    background-color: rgba(197, 201, 197, 0.4);
+}

@@ -1,0 +1,24 @@
+/*
+*
+* name: Chinoiserie Midnight
+* author: Di Wang (https://cs.cmu.edu/~diw3)
+* slug: chinoiserie-midnight
+* slug-underscored: chinoiserie_midnight
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #1d1d1d;
+    border-color: #81a2a2;
+}
+
+button,
+image {
+    color: #bdaead;
+}
+
+button:hover {
+    background-color: rgba(255, 254, 249, 0.4);
+}

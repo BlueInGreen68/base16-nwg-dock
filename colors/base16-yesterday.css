@@ -1,0 +1,24 @@
+/*
+*
+* name: Yesterday
+* author: FroZnShiva (https://github.com/FroZnShiva)
+* slug: yesterday
+* slug-underscored: yesterday
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #1d1f21;
+    border-color: #4271ae;
+}
+
+button,
+image {
+    color: #8e908c;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.4);
+}

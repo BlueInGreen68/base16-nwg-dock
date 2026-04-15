@@ -1,0 +1,24 @@
+/*
+*
+* name: Gruvbox dark
+* author: Tinted Theming (https://github.com/tinted-theming), morhetz (https://github.com/morhetz/gruvbox)
+* slug: gruvbox-dark
+* slug-underscored: gruvbox_dark
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #282828;
+    border-color: #458588;
+}
+
+button,
+image {
+    color: #928374;
+}
+
+button:hover {
+    background-color: rgba(249, 245, 215, 0.4);
+}

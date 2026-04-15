@@ -6,7 +6,6 @@
 * slug-underscored: shadesmear_dark
 * system: base16
 * variant: dark
-* is-dark-variant: true
 *
 */
 
@@ -17,7 +16,7 @@ window {
 
 button,
 image {
-    color: #E4E4E4;
+    color: #e4e4e4;
 }
 
 button:hover {

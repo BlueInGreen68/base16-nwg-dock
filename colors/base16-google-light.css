@@ -6,13 +6,12 @@
 * slug-underscored: google_light
 * system: base16
 * variant: light
-* is-light-variant: true
 *
 */
 
 window {
     background-color: #ffffff;
-    border-color: #3971ED;
+    border-color: #3971ed;
 }
 
 button,

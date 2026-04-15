@@ -1,12 +1,11 @@
 /*
 *
 * name: Edge Dark
-* author: cjayross (https://github.com/cjayross)
+* author: cjayross (https://github.com/cjayross), Tinted Theming (https://github.com/tinted-theming)
 * slug: edge-dark
 * slug-underscored: edge_dark
 * system: base16
 * variant: dark
-* is-dark-variant: true
 *
 */
 
@@ -17,9 +16,9 @@ window {
 
 button,
 image {
-    color: #73b3e7;
+    color: #95989d;
 }
 
 button:hover {
-    background-color: rgba(62, 66, 73, 0.4);
+    background-color: rgba(228, 229, 230, 0.4);
 }

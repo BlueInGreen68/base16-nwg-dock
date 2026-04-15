@@ -1,23 +1,22 @@
 /*
 *
 * name: Heetch Light
-* author: Geoffrey Teale (tealeg@gmail.com)
+* author: Geoffrey Teale (tealeg@gmail.com), Tinted Theming (https://github.com/tinted-theming)
 * slug: heetch-light
 * slug-underscored: heetch_light
 * system: base16
 * variant: light
-* is-light-variant: true
 *
 */
 
 window {
     background-color: #feffff;
-    border-color: #47f9f5;
+    border-color: #5ba2b6;
 }
 
 button,
 image {
-    color: #ddd6e5;
+    color: #7b6d8b;
 }
 
 button:hover {

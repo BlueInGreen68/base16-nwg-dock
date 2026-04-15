@@ -6,12 +6,11 @@
 * slug-underscored: vice
 * system: base16
 * variant: dark
-* is-dark-variant: true
 *
 */
 
 window {
-    background-color: #17191E;
+    background-color: #17191e;
     border-color: #00eaff;
 }
 

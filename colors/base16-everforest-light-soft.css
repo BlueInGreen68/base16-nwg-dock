@@ -1,0 +1,24 @@
+/*
+*
+* name: Everforest Light (Soft)
+* author: Márcio Sobel (https://github.com/marciosobel)
+* slug: everforest-light-soft
+* slug-underscored: everforest_light_soft
+* system: base16
+* variant: light
+*
+*/
+
+window {
+    background-color: #f3ead3;
+    border-color: #3a94c5;
+}
+
+button,
+image {
+    color: #829181;
+}
+
+button:hover {
+    background-color: rgba(51, 60, 67, 0.4);
+}

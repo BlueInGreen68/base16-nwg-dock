@@ -1,0 +1,24 @@
+/*
+*
+* name: Chinoiserie
+* author: Di Wang (https://cs.cmu.edu/~diw3)
+* slug: chinoiserie
+* slug-underscored: chinoiserie
+* system: base16
+* variant: light
+*
+*/
+
+window {
+    background-color: #ffffff;
+    border-color: #815c94;
+}
+
+button,
+image {
+    color: #918072;
+}
+
+button:hover {
+    background-color: rgba(19, 17, 36, 0.4);
+}

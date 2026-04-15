@@ -1,0 +1,24 @@
+/*
+*
+* name: Everforest Light (Hard)
+* author: Márcio Sobel (https://github.com/marciosobel)
+* slug: everforest-light-hard
+* slug-underscored: everforest_light_hard
+* system: base16
+* variant: light
+*
+*/
+
+window {
+    background-color: #fffbef;
+    border-color: #3a94c5;
+}
+
+button,
+image {
+    color: #829181;
+}
+
+button:hover {
+    background-color: rgba(39, 46, 51, 0.4);
+}

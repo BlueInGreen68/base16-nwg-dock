@@ -6,18 +6,17 @@
 * slug-underscored: material_darker
 * system: base16
 * variant: dark
-* is-dark-variant: true
 *
 */
 
 window {
     background-color: #212121;
-    border-color: #82AAFF;
+    border-color: #82aaff;
 }
 
 button,
 image {
-    color: #B2CCD6;
+    color: #b2ccd6;
 }
 
 button:hover {

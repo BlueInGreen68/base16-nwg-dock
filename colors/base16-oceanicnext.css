@@ -6,18 +6,17 @@
 * slug-underscored: oceanicnext
 * system: base16
 * variant: dark
-* is-dark-variant: true
 *
 */
 
 window {
-    background-color: #1B2B34;
-    border-color: #6699CC;
+    background-color: #1b2b34;
+    border-color: #6699cc;
 }
 
 button,
 image {
-    color: #A7ADBA;
+    color: #a7adba;
 }
 
 button:hover {

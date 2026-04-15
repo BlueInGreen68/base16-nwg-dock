@@ -6,18 +6,17 @@
 * slug-underscored: embers
 * system: base16
 * variant: dark
-* is-dark-variant: true
 *
 */
 
 window {
-    background-color: #16130F;
-    border-color: #6D5782;
+    background-color: #16130f;
+    border-color: #6d5782;
 }
 
 button,
 image {
-    color: #8A8075;
+    color: #8a8075;
 }
 
 button:hover {

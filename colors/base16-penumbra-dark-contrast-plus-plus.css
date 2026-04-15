@@ -1,0 +1,24 @@
+/*
+*
+* name: Penumbra Dark Contrast Plus Plus
+* author: Zachary Weiss (https://github.com/zacharyweiss)
+* slug: penumbra-dark-contrast-plus-plus
+* slug-underscored: penumbra_dark_contrast_plus_plus
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #0d0f13;
+    border-color: #6eb2fd;
+}
+
+button,
+image {
+    color: #aeaeae;
+}
+
+button:hover {
+    background-color: rgba(255, 253, 251, 0.4);
+}

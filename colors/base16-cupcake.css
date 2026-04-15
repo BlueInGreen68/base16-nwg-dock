@@ -6,13 +6,12 @@
 * slug-underscored: cupcake
 * system: base16
 * variant: light
-* is-light-variant: true
 *
 */
 
 window {
     background-color: #fbf1f2;
-    border-color: #7297B9;
+    border-color: #7297b9;
 }
 
 button,

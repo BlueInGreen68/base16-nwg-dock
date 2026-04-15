@@ -1,0 +1,24 @@
+/*
+*
+* name: Penumbra Dark
+* author: Zachary Weiss (https://github.com/zacharyweiss)
+* slug: penumbra-dark
+* slug-underscored: penumbra_dark
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #24272b;
+    border-color: #5794d0;
+}
+
+button,
+image {
+    color: #8f8f8f;
+}
+
+button:hover {
+    background-color: rgba(255, 253, 251, 0.4);
+}

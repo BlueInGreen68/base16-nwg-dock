@@ -1,0 +1,24 @@
+/*
+*
+* name: Hardhacker
+* author: fe2-Nyxar, based on the https://github.com/hardhackerlabs
+* slug: hardhacker
+* slug-underscored: hardhacker
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #211e2a;
+    border-color: #95a6f4;
+}
+
+button,
+image {
+    color: #8a829e;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.4);
+}

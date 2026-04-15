@@ -6,18 +6,17 @@
 * slug-underscored: summerfruit_dark
 * system: base16
 * variant: dark
-* is-dark-variant: true
 *
 */
 
 window {
     background-color: #151515;
-    border-color: #3777E6;
+    border-color: #3777e6;
 }
 
 button,
 image {
-    color: #B0B0B0;
+    color: #b0b0b0;
 }
 
 button:hover {

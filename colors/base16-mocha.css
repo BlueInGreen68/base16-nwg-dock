@@ -6,12 +6,11 @@
 * slug-underscored: mocha
 * system: base16
 * variant: dark
-* is-dark-variant: true
 *
 */
 
 window {
-    background-color: #3B3228;
+    background-color: #3b3228;
     border-color: #8ab3b5;
 }
 

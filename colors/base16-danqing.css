@@ -6,13 +6,12 @@
 * slug-underscored: danqing
 * system: base16
 * variant: dark
-* is-dark-variant: true
 *
 */
 
 window {
     background-color: #2d302f;
-    border-color: #B0A4E3;
+    border-color: #b0a4e3;
 }
 
 button,

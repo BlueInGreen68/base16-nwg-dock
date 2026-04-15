@@ -1,0 +1,24 @@
+/*
+*
+* name: Yesterday Bright
+* author: FroZnShiva (https://github.com/FroZnShiva)
+* slug: yesterday-bright
+* slug-underscored: yesterday_bright
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #343d46;
+    border-color: #7aa6da;
+}
+
+button,
+image {
+    color: #c0c5ce;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.4);
+}

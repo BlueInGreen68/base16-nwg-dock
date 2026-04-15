@@ -6,13 +6,12 @@
 * slug-underscored: classic_light
 * system: base16
 * variant: light
-* is-light-variant: true
 *
 */
 
 window {
-    background-color: #F5F5F5;
-    border-color: #6A9FB5;
+    background-color: #f5f5f5;
+    border-color: #6a9fb5;
 }
 
 button,

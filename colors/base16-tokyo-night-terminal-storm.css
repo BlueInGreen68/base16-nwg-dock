@@ -6,18 +6,17 @@
 * slug-underscored: tokyo_night_terminal_storm
 * system: base16
 * variant: dark
-* is-dark-variant: true
 *
 */
 
 window {
-    background-color: #24283B;
-    border-color: #7AA2F7;
+    background-color: #24283b;
+    border-color: #7aa2f7;
 }
 
 button,
 image {
-    color: #787C99;
+    color: #787c99;
 }
 
 button:hover {

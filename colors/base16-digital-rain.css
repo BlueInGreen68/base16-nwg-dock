@@ -1,0 +1,24 @@
+/*
+*
+* name: Digital Rain
+* author: Nathan Byrd (https://github.com/cognitivegears)
+* slug: digital-rain
+* slug-underscored: digital_rain
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #000000;
+    border-color: #5482af;
+}
+
+button,
+image {
+    color: #919893;
+}
+
+button:hover {
+    background-color: rgba(216, 226, 220, 0.4);
+}

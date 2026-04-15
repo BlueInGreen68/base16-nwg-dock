@@ -6,12 +6,11 @@
 * slug-underscored: blueforest
 * system: base16
 * variant: dark
-* is-dark-variant: true
 *
 */
 
 window {
-    background-color: #141F2E;
+    background-color: #141f2e;
     border-color: #a2cff5;
 }
 

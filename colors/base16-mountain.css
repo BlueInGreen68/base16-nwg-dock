@@ -6,7 +6,6 @@
 * slug-underscored: mountain
 * system: base16
 * variant: dark
-* is-dark-variant: true
 *
 */
 
@@ -17,7 +16,7 @@ window {
 
 button,
 image {
-    color: #ac8a8c;
+    color: #4c4c4c;
 }
 
 button:hover {

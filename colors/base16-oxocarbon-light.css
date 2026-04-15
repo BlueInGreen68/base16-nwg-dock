@@ -1,25 +1,24 @@
 /*
 *
 * name: Oxocarbon Light
-* author: shaunsingh/IBM
+* author: shaunsingh/IBM, Tinted Theming (https://github.com/tinted-theming)
 * slug: oxocarbon-light
 * slug-underscored: oxocarbon_light
 * system: base16
 * variant: light
-* is-light-variant: true
 *
 */
 
 window {
     background-color: #f2f4f8;
-    border-color: #42be65;
+    border-color: #0f62fe;
 }
 
 button,
 image {
-    color: #262626;
+    color: #68788d;
 }
 
 button:hover {
-    background-color: rgba(8, 189, 186, 0.4);
+    background-color: rgba(39, 45, 53, 0.4);
 }

@@ -6,18 +6,17 @@
 * slug-underscored: tokyo_night_dark
 * system: base16
 * variant: dark
-* is-dark-variant: true
 *
 */
 
 window {
-    background-color: #1A1B26;
-    border-color: #2AC3DE;
+    background-color: #1a1b26;
+    border-color: #2ac3de;
 }
 
 button,
 image {
-    color: #787C99;
+    color: #787c99;
 }
 
 button:hover {

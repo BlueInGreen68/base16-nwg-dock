@@ -6,7 +6,6 @@
 * slug-underscored: brushtrees_dark
 * system: base16
 * variant: dark
-* is-dark-variant: true
 *
 */
 
@@ -17,7 +16,7 @@ window {
 
 button,
 image {
-    color: #98AFB5;
+    color: #98afb5;
 }
 
 button:hover {

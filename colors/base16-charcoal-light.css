@@ -1,0 +1,24 @@
+/*
+*
+* name: Charcoal Light
+* author: Mubin Muhammad (https://github.com/mubin6th)
+* slug: charcoal-light
+* slug-underscored: charcoal_light
+* system: base16
+* variant: light
+*
+*/
+
+window {
+    background-color: #cabda0;
+    border-color: #251e0f;
+}
+
+button,
+image {
+    color: #110e06;
+}
+
+button:hover {
+    background-color: rgba(188, 173, 140, 0.4);
+}

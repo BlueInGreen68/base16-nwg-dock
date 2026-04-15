@@ -1,0 +1,24 @@
+/*
+*
+* name: Chicago Night
+* author: Wendell, Ryan <ryanjwendell@gmail.com>
+* slug: chicago-night
+* slug-underscored: chicago_night
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #1e2a24;
+    border-color: #522398;
+}
+
+button,
+image {
+    color: #8a9a91;
+}
+
+button:hover {
+    background-color: rgba(219, 227, 222, 0.4);
+}

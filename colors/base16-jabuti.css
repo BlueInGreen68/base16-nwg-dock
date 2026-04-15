@@ -6,13 +6,12 @@
 * slug-underscored: jabuti
 * system: base16
 * variant: dark
-* is-dark-variant: true
 *
 */
 
 window {
-    background-color: #292A37;
-    border-color: #3FC6DE;
+    background-color: #292a37;
+    border-color: #3fc6de;
 }
 
 button,

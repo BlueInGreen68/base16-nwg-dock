@@ -1,25 +1,24 @@
 /*
 *
 * name: Ayu Light
-* author: Khue Nguyen <Z5483Y@gmail.com>
+* author: Tinted Theming (https://github.com/tinted-theming), Ayu Theme (https://github.com/ayu-theme)
 * slug: ayu-light
 * slug-underscored: ayu_light
 * system: base16
 * variant: light
-* is-light-variant: true
 *
 */
 
 window {
-    background-color: #FAFAFA;
-    border-color: #36A3D9;
+    background-color: #f8f9fa;
+    border-color: #399ee6;
 }
 
 button,
 image {
-    color: #828C99;
+    color: #8a9199;
 }
 
 button:hover {
-    background-color: rgba(26, 31, 41, 0.4);
+    background-color: rgba(64, 68, 71, 0.4);
 }

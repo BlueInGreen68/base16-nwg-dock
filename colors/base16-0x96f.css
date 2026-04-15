@@ -1,0 +1,24 @@
+/*
+*
+* name: 0x96f
+* author: Filip Janevski (https://0x96f.dev/theme)
+* slug: 0x96f
+* slug-underscored: 0x96f
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #262427;
+    border-color: #49cae4;
+}
+
+button,
+image {
+    color: #7c7b7d;
+}
+
+button:hover {
+    background-color: rgba(252, 252, 252, 0.4);
+}

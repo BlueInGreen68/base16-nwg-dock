@@ -6,13 +6,12 @@
 * slug-underscored: kanagawa
 * system: base16
 * variant: dark
-* is-dark-variant: true
 *
 */
 
 window {
-    background-color: #1F1F28;
-    border-color: #7E9CD8;
+    background-color: #1f1f28;
+    border-color: #7e9cd8;
 }
 
 button,

@@ -1,23 +1,22 @@
 /*
 *
 * name: Ayu Mirage
-* author: Khue Nguyen <Z5483Y@gmail.com>
+* author: Tinted Theming (https://github.com/tinted-theming), Ayu Theme (https://github.com/ayu-theme)
 * slug: ayu-mirage
 * slug-underscored: ayu_mirage
 * system: base16
 * variant: dark
-* is-dark-variant: true
 *
 */
 
 window {
-    background-color: #171B24;
-    border-color: #5CCFE6;
+    background-color: #1f2430;
+    border-color: #73d0ff;
 }
 
 button,
 image {
-    color: #8A9199;
+    color: #707a8c;
 }
 
 button:hover {

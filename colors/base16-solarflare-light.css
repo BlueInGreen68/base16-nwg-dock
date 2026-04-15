@@ -6,13 +6,12 @@
 * slug-underscored: solarflare_light
 * system: base16
 * variant: light
-* is-light-variant: true
 *
 */
 
 window {
-    background-color: #F5F7FA;
-    border-color: #33B5E1;
+    background-color: #f5f7fa;
+    border-color: #33b5e1;
 }
 
 button,

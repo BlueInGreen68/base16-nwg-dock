@@ -6,7 +6,6 @@
 * slug-underscored: silk_dark
 * system: base16
 * variant: dark
-* is-dark-variant: true
 *
 */
 
@@ -17,7 +16,7 @@ window {
 
 button,
 image {
-    color: #9DC8CD;
+    color: #9dc8cd;
 }
 
 button:hover {

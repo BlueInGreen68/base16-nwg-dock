@@ -1,12 +1,11 @@
 /*
 *
 * name: Edge Light
-* author: cjayross (https://github.com/cjayross)
+* author: cjayross (https://github.com/cjayross), Tinted Theming (https://github.com/tinted-theming)
 * slug: edge-light
 * slug-underscored: edge_light
 * system: base16
 * variant: light
-* is-light-variant: true
 *
 */
 
@@ -17,9 +16,9 @@ window {
 
 button,
 image {
-    color: #6587bf;
+    color: #5e646f;
 }
 
 button:hover {
-    background-color: rgba(94, 100, 111, 0.4);
+    background-color: rgba(46, 46, 56, 0.4);
 }

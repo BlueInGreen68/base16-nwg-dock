@@ -1,0 +1,24 @@
+/*
+*
+* name: Flexoki Dark
+* author: Steph Ango (https://github.com/kepano/flexoki)
+* slug: flexoki-dark
+* slug-underscored: flexoki_dark
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #100f0f;
+    border-color: #4385be;
+}
+
+button,
+image {
+    color: #878580;
+}
+
+button:hover {
+    background-color: rgba(255, 252, 240, 0.4);
+}

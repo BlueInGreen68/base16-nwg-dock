@@ -1,0 +1,24 @@
+/*
+*
+* name: Cyberpunk
+* author: benjujo
+* slug: cyberpunk
+* slug-underscored: cyberpunk
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #000000;
+    border-color: #4c83ff;
+}
+
+button,
+image {
+    color: #8b8989;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.4);
+}

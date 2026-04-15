@@ -1,18 +1,17 @@
 /*
 *
 * name: Deep Oceanic Next
-* author: spearkkk (https://github.com/spearkkk/deep-oceanic-next)
+* author: spearkkk (https://github.com/spearkkk)
 * slug: deep-oceanic-next
 * slug-underscored: deep_oceanic_next
 * system: base16
 * variant: dark
-* is-dark-variant: true
 *
 */
 
 window {
-    background-color: #003b46;
-    border-color: #3a82e6;
+    background-color: #001c1f;
+    border-color: #568ccf;
 }
 
 button,
@@ -21,5 +20,5 @@ image {
 }
 
 button:hover {
-    background-color: rgba(240, 245, 245, 0.4);
+    background-color: rgba(242, 247, 249, 0.4);
 }

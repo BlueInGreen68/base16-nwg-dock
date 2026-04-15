@@ -6,13 +6,12 @@
 * slug-underscored: google_dark
 * system: base16
 * variant: dark
-* is-dark-variant: true
 *
 */
 
 window {
     background-color: #1d1f21;
-    border-color: #3971ED;
+    border-color: #3971ed;
 }
 
 button,

@@ -1,25 +1,24 @@
 /*
 *
 * name: Still Alive
-* author: Derrick McKee (derrick.mckee@gmail.com)
+* author: Derrick McKee (derrick.mckee@gmail.com), Tinted Theming (https://github.com/tinted-theming)
 * slug: still-alive
 * slug-underscored: still_alive
 * system: base16
 * variant: light
-* is-light-variant: true
 *
 */
 
 window {
-    background-color: #F0F0F0;
-    border-color: #001878;
+    background-color: #f0f0f0;
+    border-color: #365eff;
 }
 
 button,
 image {
-    color: #F00000;
+    color: #605758;
 }
 
 button:hover {
-    background-color: rgba(48, 168, 96, 0.4);
+    background-color: rgba(20, 12, 13, 0.4);
 }

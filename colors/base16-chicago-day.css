@@ -1,0 +1,24 @@
+/*
+*
+* name: Chicago Day
+* author: Wendell, Ryan <ryanjwendell@gmail.com>
+* slug: chicago-day
+* slug-underscored: chicago_day
+* system: base16
+* variant: light
+*
+*/
+
+window {
+    background-color: #e8f0ea;
+    border-color: #522398;
+}
+
+button,
+image {
+    color: #4b5a51;
+}
+
+button:hover {
+    background-color: rgba(30, 42, 36, 0.4);
+}

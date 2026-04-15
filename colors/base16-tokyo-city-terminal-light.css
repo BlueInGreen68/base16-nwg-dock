@@ -6,13 +6,12 @@
 * slug-underscored: tokyo_city_terminal_light
 * system: base16
 * variant: light
-* is-light-variant: true
 *
 */
 
 window {
-    background-color: #FBFBFD;
-    border-color: #34548A;
+    background-color: #fbfbfd;
+    border-color: #34548a;
 }
 
 button,

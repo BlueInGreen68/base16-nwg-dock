@@ -6,13 +6,12 @@
 * slug-underscored: darktooth
 * system: base16
 * variant: dark
-* is-dark-variant: true
 *
 */
 
 window {
-    background-color: #1D2021;
-    border-color: #0D6678;
+    background-color: #1d2021;
+    border-color: #0d6678;
 }
 
 button,

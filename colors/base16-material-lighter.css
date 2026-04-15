@@ -6,20 +6,19 @@
 * slug-underscored: material_lighter
 * system: base16
 * variant: light
-* is-light-variant: true
 *
 */
 
 window {
-    background-color: #FAFAFA;
-    border-color: #6182B8;
+    background-color: #fafafa;
+    border-color: #6182b8;
 }
 
 button,
 image {
-    color: #8796B0;
+    color: #8796b0;
 }
 
 button:hover {
-    background-color: rgba(255, 255, 255, 0.4);
+    background-color: rgba(0, 0, 0, 0.4);
 }

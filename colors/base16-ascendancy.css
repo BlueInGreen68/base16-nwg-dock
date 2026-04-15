@@ -1,0 +1,24 @@
+/*
+*
+* name: Ascendancy
+* author: EmergentMind (https://github.com/emergentmind/ascendancy-scheme)
+* slug: ascendancy
+* slug-underscored: ascendancy
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #282828;
+    border-color: #458588;
+}
+
+button,
+image {
+    color: #bdae93;
+}
+
+button:hover {
+    background-color: rgba(251, 241, 199, 0.4);
+}

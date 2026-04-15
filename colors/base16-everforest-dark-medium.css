@@ -1,0 +1,24 @@
+/*
+*
+* name: Everforest Dark Medium
+* author: Sainnhe Park (https://github.com/sainnhe)
+* slug: everforest-dark-medium
+* slug-underscored: everforest_dark_medium
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #2d353b;
+    border-color: #7fbbb3;
+}
+
+button,
+image {
+    color: #7a8478;
+}
+
+button:hover {
+    background-color: rgba(211, 198, 170, 0.4);
+}

@@ -1,0 +1,24 @@
+/*
+*
+* name: Yesterday Night
+* author: FroZnShiva (https://github.com/FroZnShiva)
+* slug: yesterday-night
+* slug-underscored: yesterday_night
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #343d46;
+    border-color: #81a2be;
+}
+
+button,
+image {
+    color: #c0c5ce;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.4);
+}
