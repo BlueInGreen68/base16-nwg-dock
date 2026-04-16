@@ -89,7 +89,7 @@ themes-dir = "themes"
 supported-systems = ["base16"]
 ```
 
-2. Add `@import` directive to your `~/.config/nwg-dock/style.css` with path to `~/.local/share/tinted-theming/tinty/base16-nwg-dock-colors-file.css`, as in the [usage](#usage) section.
+2. Add `@import` directive to your `~/.config/nwg-dock/style.css` with path to `~/.local/share/tinted-theming/tinty/tinted-nwg-dock-themes-file.css`, as in the [usage](#usage) section.
 
 3. `tinty apply base16-google-light` to change the theme to `base16-google-light`.
 
