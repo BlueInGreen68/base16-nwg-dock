@@ -1,0 +1,24 @@
+/*
+*
+* name: Kissa Latte
+* author: rwendell (https://github.com/rwendell/kissa)
+* slug: kissa-latte
+* slug-underscored: kissa_latte
+* system: base16
+* variant: light
+*
+*/
+
+window {
+    background-color: #f5f4f0;
+    border-color: #3468a8;
+}
+
+button,
+image {
+    color: #746c62;
+}
+
+button:hover {
+    background-color: rgba(254, 252, 250, 0.4);
+}

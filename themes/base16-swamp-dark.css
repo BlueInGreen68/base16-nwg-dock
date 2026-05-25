@@ -1,0 +1,24 @@
+/*
+*
+* name: Swamp Dark
+* author: Masroof Maindak (https://github.com/masroof-maindak)
+* slug: swamp-dark
+* slug-underscored: swamp_dark
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #242015;
+    border-color: #c1666b;
+}
+
+button,
+image {
+    color: #b8a58c;
+}
+
+button:hover {
+    background-color: rgba(241, 233, 208, 0.4);
+}

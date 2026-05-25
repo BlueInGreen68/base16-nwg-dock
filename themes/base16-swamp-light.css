@@ -1,0 +1,24 @@
+/*
+*
+* name: Swamp Light
+* author: Masroof Maindak (https://github.com/masroof-maindak)
+* slug: swamp-light
+* slug-underscored: swamp_light
+* system: base16
+* variant: light
+*
+*/
+
+window {
+    background-color: #f1e3d1;
+    border-color: #bf7979;
+}
+
+button,
+image {
+    color: #a0907d;
+}
+
+button:hover {
+    background-color: rgba(140, 123, 104, 0.4);
+}
