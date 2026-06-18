@@ -1,0 +1,24 @@
+/*
+*
+* name: Brasa
+* author: Teshre
+* slug: brasa
+* slug-underscored: brasa
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #1a0f0a;
+    border-color: #9aa6e0;
+}
+
+button,
+image {
+    color: #b59d88;
+}
+
+button:hover {
+    background-color: rgba(251, 234, 216, 0.4);
+}

@@ -1,0 +1,24 @@
+/*
+*
+* name: Noche
+* author: Teshre
+* slug: noche
+* slug-underscored: noche
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #0c0e16;
+    border-color: #7aa0e8;
+}
+
+button,
+image {
+    color: #939bb2;
+}
+
+button:hover {
+    background-color: rgba(230, 236, 250, 0.4);
+}

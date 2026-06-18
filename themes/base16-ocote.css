@@ -1,0 +1,24 @@
+/*
+*
+* name: Ocote
+* author: Teshre
+* slug: ocote
+* slug-underscored: ocote
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #14100c;
+    border-color: #82a6e0;
+}
+
+button,
+image {
+    color: #a99f8d;
+}
+
+button:hover {
+    background-color: rgba(250, 246, 236, 0.4);
+}

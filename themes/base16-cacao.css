@@ -1,0 +1,24 @@
+/*
+*
+* name: Cacao
+* author: Teshre
+* slug: cacao
+* slug-underscored: cacao
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #160f0c;
+    border-color: #a89ad0;
+}
+
+button,
+image {
+    color: #af9b8b;
+}
+
+button:hover {
+    background-color: rgba(244, 230, 214, 0.4);
+}

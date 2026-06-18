@@ -1,0 +1,24 @@
+/*
+*
+* name: Papel
+* author: Teshre
+* slug: papel
+* slug-underscored: papel
+* system: base16
+* variant: light
+*
+*/
+
+window {
+    background-color: #f5efe2;
+    border-color: #2c6ca0;
+}
+
+button,
+image {
+    color: #6a5d4b;
+}
+
+button:hover {
+    background-color: rgba(239, 232, 216, 0.4);
+}

@@ -1,0 +1,24 @@
+/*
+*
+* name: Bosque
+* author: Teshre
+* slug: bosque
+* slug-underscored: bosque
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #0e1410;
+    border-color: #6dae9e;
+}
+
+button,
+image {
+    color: #96aa98;
+}
+
+button:hover {
+    background-color: rgba(228, 240, 226, 0.4);
+}

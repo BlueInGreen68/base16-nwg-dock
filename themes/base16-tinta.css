@@ -1,0 +1,24 @@
+/*
+*
+* name: Tinta
+* author: Teshre
+* slug: tinta
+* slug-underscored: tinta
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #101012;
+    border-color: #8a9ab0;
+}
+
+button,
+image {
+    color: #9d9c9d;
+}
+
+button:hover {
+    background-color: rgba(238, 236, 230, 0.4);
+}
