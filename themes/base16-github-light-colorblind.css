@@ -1,9 +1,9 @@
 /*
 *
-* name: Github
+* name: Github Light Colorblind
 * author: Tinted Theming (https://github.com/tinted-theming)
-* slug: github
-* slug-underscored: github
+* slug: github-light-colorblind
+* slug-underscored: github_light_colorblind
 * system: base16
 * variant: light
 *
@@ -20,5 +20,5 @@ image {
 }
 
 button:hover {
-    background-color: rgba(31, 35, 40, 0.4);
+    background-color: rgba(36, 41, 47, 0.4);
 }

@@ -1,22 +1,22 @@
 /*
 *
-* name: Github Dark
+* name: Github Dark High Contrast
 * author: Tinted Theming (https://github.com/tinted-theming)
-* slug: github-dark
-* slug-underscored: github_dark
+* slug: github-dark-high-contrast
+* slug-underscored: github_dark_high_contrast
 * system: base16
 * variant: dark
 *
 */
 
 window {
-    background-color: #0d1117;
-    border-color: #d2a8ff;
+    background-color: #0a0c10;
+    border-color: #dbb7ff;
 }
 
 button,
 image {
-    color: #8b949e;
+    color: #bdc4cc;
 }
 
 button:hover {
