@@ -1,0 +1,24 @@
+/*
+*
+* name: Jellybeans
+* author: FredHappyface (https://github.com/fredHappyface), converted to Base16 by https://github.com/nonetrix
+* slug: jellybeans
+* slug-underscored: jellybeans
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #121212;
+    border-color: #b1d8f6;
+}
+
+button,
+image {
+    color: #cdcdcd;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.4);
+}
