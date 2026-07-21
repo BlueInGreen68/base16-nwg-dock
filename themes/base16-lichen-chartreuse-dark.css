@@ -1,0 +1,24 @@
+/*
+*
+* name: Lichen Chartreuse Dark
+* author: Aaron Colichia (https://aaron.colichia.org/)
+* slug: lichen-chartreuse-dark
+* slug-underscored: lichen_chartreuse_dark
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #151613;
+    border-color: #78adc4;
+}
+
+button,
+image {
+    color: #a0a598;
+}
+
+button:hover {
+    background-color: rgba(252, 252, 250, 0.4);
+}

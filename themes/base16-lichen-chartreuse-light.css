@@ -1,0 +1,24 @@
+/*
+*
+* name: Lichen Chartreuse Light
+* author: Aaron Colichia (https://aaron.colichia.org/)
+* slug: lichen-chartreuse-light
+* slug-underscored: lichen_chartreuse_light
+* system: base16
+* variant: light
+*
+*/
+
+window {
+    background-color: #f5f7f2;
+    border-color: #356e8a;
+}
+
+button,
+image {
+    color: #4e5149;
+}
+
+button:hover {
+    background-color: rgba(21, 22, 19, 0.4);
+}

@@ -1,0 +1,24 @@
+/*
+*
+* name: Cerulean Signal Light
+* author: Aaron Colichia (https://aaron.colichia.org/)
+* slug: cerulean-signal-light
+* slug-underscored: cerulean_signal_light
+* system: base16
+* variant: light
+*
+*/
+
+window {
+    background-color: #f7f9fc;
+    border-color: #006fa8;
+}
+
+button,
+image {
+    color: #566579;
+}
+
+button:hover {
+    background-color: rgba(20, 29, 42, 0.4);
+}

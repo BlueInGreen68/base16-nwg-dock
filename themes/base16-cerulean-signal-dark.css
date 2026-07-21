@@ -1,0 +1,24 @@
+/*
+*
+* name: Cerulean Signal Dark
+* author: Aaron Colichia (https://aaron.colichia.org/)
+* slug: cerulean-signal-dark
+* slug-underscored: cerulean_signal_dark
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #101722;
+    border-color: #7dd3ff;
+}
+
+button,
+image {
+    color: #aab8ca;
+}
+
+button:hover {
+    background-color: rgba(247, 249, 252, 0.4);
+}
