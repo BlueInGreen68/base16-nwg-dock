@@ -1,0 +1,24 @@
+/*
+*
+* name: Arroz con Dulce Dark
+* author: Richard Martinez
+* slug: arroz-con-dulce-dark
+* slug-underscored: arroz_con_dulce_dark
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #21140f;
+    border-color: #b99ac8;
+}
+
+button,
+image {
+    color: #c8a77a;
+}
+
+button:hover {
+    background-color: rgba(255, 248, 231, 0.4);
+}
