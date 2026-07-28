@@ -1,0 +1,24 @@
+/*
+*
+* name: Neovim Light
+* author: https://github.com/neovim/neovim/blob/master/src/nvim/highlight_group.c
+* slug: neovim-light
+* slug-underscored: neovim_light
+* system: base16
+* variant: light
+*
+*/
+
+window {
+    background-color: #e0e2ea;
+    border-color: #004c73;
+}
+
+button,
+image {
+    color: #2c2e33;
+}
+
+button:hover {
+    background-color: rgba(7, 8, 13, 0.4);
+}

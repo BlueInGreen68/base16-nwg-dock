@@ -1,0 +1,24 @@
+/*
+*
+* name: Neovim Dark
+* author: https://github.com/neovim/neovim/blob/master/src/nvim/highlight_group.c
+* slug: neovim-dark
+* slug-underscored: neovim_dark
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #14161b;
+    border-color: #a6dbff;
+}
+
+button,
+image {
+    color: #c4c6cd;
+}
+
+button:hover {
+    background-color: rgba(238, 241, 248, 0.4);
+}
