@@ -1,0 +1,24 @@
+/*
+*
+* name: Pastelón de Amarillos Dark
+* author: Richard Martinez (https://sonofmartinus.com)
+* slug: pastelon-de-amarillos-dark
+* slug-underscored: pastelon_de_amarillos_dark
+* system: base16
+* variant: dark
+*
+*/
+
+window {
+    background-color: #180d18;
+    border-color: #5a9fe6;
+}
+
+button,
+image {
+    color: #c39a89;
+}
+
+button:hover {
+    background-color: rgba(255, 247, 230, 0.4);
+}
